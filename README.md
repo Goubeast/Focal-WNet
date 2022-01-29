@@ -38,4 +38,9 @@ python eval.py --model_dir ./pretrained/LDRN_NYU_ResNext101_pretrained_data.pkl 
 
 ```
 
+## Reference 
+We thank the authors of the following repositories for their contribution.
 
+[LapDepth](https://github.com/tjqansthd/LapDepth-release)
+
+[Focal Transformer](https://github.com/microsoft/Focal-Transformer)
