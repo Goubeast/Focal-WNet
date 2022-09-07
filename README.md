@@ -3,6 +3,9 @@ Official PyTorch Code for Monocular Depth Estimation using Focal-WNet
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/focal-wnet-an-architecture-unifying/monocular-depth-estimation-on-nyu-depth-v2)](https://paperswithcode.com/sota/monocular-depth-estimation-on-nyu-depth-v2?p=focal-wnet-an-architecture-unifying)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/focal-wnet-an-architecture-unifying/monocular-depth-estimation-on-kitti-eigen)](https://paperswithcode.com/sota/monocular-depth-estimation-on-kitti-eigen?p=focal-wnet-an-architecture-unifying)
+
+
 ## Qualitative Result on NYU v2 Dataset
 
 ![Comparison](https://user-images.githubusercontent.com/59992424/151580639-8827e849-ed74-40a9-9a46-1d7f6802ef6e.png)
